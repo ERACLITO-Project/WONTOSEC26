@@ -47,9 +47,11 @@ Workshop Chairs:
 <br>Stefano Solari (Leonardo): “Assessing Cybersecurity Risk in Complex Scenarios”
 <br>Nicolò Maunero (IMT): “Ontology Driven Automation for Cybersecurity Risk Management”
 </p>
+<p>
 17:15 – 18:00 – Round Table: “Towards a Semantic Approach for Cybersecurity for Europe: Interoperability, Automation, and Shared Knowledge”
 Chair:  Federica Casarosa (Sant’Anna School of Advanced Studies)
 Speakers: TBA
+</p>
 <p>
 18:00 – 18:15 – Conclusions: Wrap-up and perspectives for collaboration
 </p>
