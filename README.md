@@ -33,17 +33,20 @@ Workshop Chairs:
 
 
 ## Tentative Program Schedule
+<p>
 14:30 – 14:45 – Welcome & Introduction: Overview of SERICS and ERACLITO context
-
+</p>
+<p>
 14:45 – 15:15 – Keynote: A Unified Ontology for Modeling the Security of 5G services and infrastructures (Mario Lezoche, FUB - Université de Lorraine)
-
+</p>
+<p>
 15:15 – 17:15 – Project Results Presentations: 5 presentations (15 min + 5 min Q&A)
-Fabrizio Barberis (UniGe) “Research security and Integrity in Italy: Risk Perception and a National Model”
-Francesco D’Alterio (FUB): “A Dataset for 5G Vulnerabilities”
-Federica Casarosa & Giovanni Comandé: “Legal Framework and Alignment with EU and International Law”
-Stefano Solari (Leonardo): “Assessing Cybersecurity Risk in Complex Scenarios”
-Nicolò Maunero (IMT): “Ontology Driven Automation for Cybersecurity Risk Management”
-
+<br>Fabrizio Barberis (UniGe) “Research security and Integrity in Italy: Risk Perception and a National Model”
+<br>Francesco D’Alterio (FUB): “A Dataset for 5G Vulnerabilities”
+<br>Federica Casarosa & Giovanni Comandé: “Legal Framework and Alignment with EU and International Law”
+<br>Stefano Solari (Leonardo): “Assessing Cybersecurity Risk in Complex Scenarios”
+<br>Nicolò Maunero (IMT): “Ontology Driven Automation for Cybersecurity Risk Management”
+</p>
 17:15 – 18:00 – Round Table: “Towards a Semantic Approach for Cybersecurity for Europe: Interoperability, Automation, and Shared Knowledge”
 Chair:  Federica Casarosa (Sant’Anna School of Advanced Studies)
 Speakers: TBA
