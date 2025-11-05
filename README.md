@@ -49,8 +49,8 @@ Workshop Chairs:
 </p>
 <p>
 45min – Round Table: “Towards a Semantic Approach for Cybersecurity for Europe: Interoperability, Automation, and Shared Knowledge”
-Chair:  Federica Casarosa (Sant’Anna School of Advanced Studies)
-Speakers: TBA
+<br> Chair:  Federica Casarosa (Sant’Anna School of Advanced Studies)
+<br> Speakers: TBA
 </p>
 <p>
 15min – Conclusions: Wrap-up and perspectives for collaboration
