@@ -50,6 +50,6 @@ Workshop Chairs:
 </p>
 <p>
 <b>16:30-17:30</b> – Round Table: “Towards a Semantic Approach for Cybersecurity for Europe: Interoperability, Automation, and Shared Knowledge”
-<br> Chair:  Federica Casarosa (Sant’Anna School of Advanced Studies)
 <br> Speakers: <i>Luca Nicoletti</i> (Agenzia per la Cybersicurezza Nazionale), <i>Stefano Solari</i> (Leonardo, Divisione Cyber & Security Solutions), <i>Marina Settembre</i> (Fondazione Ugo Bordoni), <i>Pier Giorgio Chiara</i> (Università di Bologna).
+<br> Chair: <i>Federica Casarosa</i> (Sant’Anna School of Advanced Studies)
 </p>
